@@ -1,1 +1,1 @@
-# Sign-Laanguage-Interpreter
+# Sign-Language-Interpreter
