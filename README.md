@@ -28,7 +28,7 @@
 <h2 align="center">Bangla Sign Detection</h2>
 <p align="center">
     <a href="https://github.com/jdchy/Sign-Language-Interpreter" target="bsl">
-        <img alt='Bangla Sign Language UI' src='imgs/detect.png' width="400" height="300"/>
+        <img alt='Bangla Sign Language UI' src='imgs/detect.png' width="300" height="400"/>
     </a>
     <br>
 </p>
