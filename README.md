@@ -12,7 +12,7 @@
 <h2 align="center">Android UserInterface</h2>
 <p align="center"> 
     <a href="https://github.com/jdchy/Sign-Language-Interpreter" target="bsl">
-        <img alt='Bangla Sign Language UI' src='imgs/ui.png' width="200" height="100"/>
+        <img alt='Bangla Sign Language UI' src='imgs/ui.png' width="200" height="400"/>
     </a>
     <br>
 </p>
@@ -20,14 +20,14 @@
 <h2 align="center">Android App Usage functionalities</h2>
 <p align="center"> 
     <a href="https://github.com/jdchy/Sign-Language-Interpreter" target="bsl">
-        <img alt='Bangla Sign Language UI' src='imgs/usage.png' width="200" height="400"/>
+        <img alt='Bangla Sign Language UI' src='imgs/usage.png' width="500" height="400"/>
     </a>
     <br>
 </p>
 <h2 align="center">Bangla Sign Detection</h2>
 <p align="center">
     <a href="https://github.com/jdchy/Sign-Language-Interpreter" target="bsl">
-        <img alt='Bangla Sign Language UI' src='imgs/detect.png' width="200" height="400"/>
+        <img alt='Bangla Sign Language UI' src='imgs/detect.png' width="400" height="400"/>
     </a>
     <br>
 </p>
