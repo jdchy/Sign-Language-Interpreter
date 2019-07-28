@@ -9,10 +9,11 @@
     </a>
     <br>
 </p>
+<h2> We have used this images to train our deep learning model and later we used it on an android app. The android app has two part. One is Dictionary where each Bangla Sign is being introduced and another is detection where a user will input image taken real time by their smartphones and our android app will interpret the image into bangla text.</h2>
 <h2 align="center">Android UserInterface</h2>
 <p align="center"> 
     <a href="https://github.com/jdchy/Sign-Language-Interpreter" target="bsl">
-        <img alt='Bangla Sign Language UI' src='imgs/ui.png' width="200" height="400"/>
+        <img alt='Bangla Sign Language UI' src='imgs/ui.png' width="300" height="400"/>
     </a>
     <br>
 </p>
@@ -20,14 +21,14 @@
 <h2 align="center">Android App Usage functionalities</h2>
 <p align="center"> 
     <a href="https://github.com/jdchy/Sign-Language-Interpreter" target="bsl">
-        <img alt='Bangla Sign Language UI' src='imgs/usage.png' width="500" height="400"/>
+        <img alt='Bangla Sign Language UI' src='imgs/usage.png' width="600" height="400"/>
     </a>
     <br>
 </p>
 <h2 align="center">Bangla Sign Detection</h2>
 <p align="center">
     <a href="https://github.com/jdchy/Sign-Language-Interpreter" target="bsl">
-        <img alt='Bangla Sign Language UI' src='imgs/detect.png' width="400" height="400"/>
+        <img alt='Bangla Sign Language UI' src='imgs/detect.png' width="400" height="300"/>
     </a>
     <br>
 </p>
